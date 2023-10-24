@@ -1,5 +1,3 @@
-# beta-issues
-
 ![Acorn](https://github.com/acorn-io/branding/blob/main/logo/horizontal-centered/acorn_centered_black.png)
 
 Thanks for trying Acorn!
