@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: ''
+about: For reporting bugs
 title: ''
-labels: 'kind/bug'
+labels: kind/bug
 assignees: ''
 
 ---
@@ -26,5 +26,3 @@ Output of `acorn info`:
 
 
 **Additional context / logs:**
-
-

@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: ''
+about: For requesting features
 title: ''
-labels: 'kind/feature'
+labels: kind/feature
 assignees: ''
 
 ---
@@ -11,5 +11,3 @@ assignees: ''
 
 
 **Additional context**
-
-
